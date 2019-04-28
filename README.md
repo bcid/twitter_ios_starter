@@ -22,20 +22,16 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-App icon in home screen and styled launch screen:
-<img src='http://g.recordit.co/iKcfS0jDuW.gif' title='Video Walkthrough' width='10' alt='Video Walkthrough' />
+1. App icon in home screen and styled launch screen
+2. Logging in and viewing tweets with the user profile picture, username, and tweet text
+3. Staying logged in across restarts
+4. Logging out
+5. Pulling to refresh
+6. Loading past tweets indefinitely
 
-Logging in and viewing tweets with the user profile picture, username, and tweet text: 
-<img src='http://g.recordit.co/tesefuU40t.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-Staying logged in across restarts: 
-<img src='http://g.recordit.co/Tj7Xql8cpF.gif' title='Video Walkthrough' width='10' alt='Video Walkthrough' />
-
-Logging out: 
-<img src='http://g.recordit.co/UR9uP4FOew.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-Pulling to refresh:
-<img src='http://g.recordit.co/U987dexf5R.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-Loading past tweets indefinitely:
-<img src='http://g.recordit.co/zQMNZGuQV3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+1. <img src='http://g.recordit.co/iKcfS0jDuW.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+2. <img src='http://g.recordit.co/tesefuU40t.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+3. <img src='http://g.recordit.co/Tj7Xql8cpF.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+4. <img src='http://g.recordit.co/UR9uP4FOew.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+5. <img src='http://g.recordit.co/U987dexf5R.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+6. <img src='http://g.recordit.co/zQMNZGuQV3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
