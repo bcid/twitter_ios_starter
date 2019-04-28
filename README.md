@@ -23,7 +23,6 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 1. App icon in home screen and styled launch screen
-2. Logging in and viewing tweets with the user profile picture, username, and tweet text
 3. Staying logged in across restarts
 4. Logging out
 5. Pulling to refresh
@@ -31,7 +30,9 @@ Here's a walkthrough of implemented user stories:
 
 1. App icon in home screen and styled launch screen
 <img src='http://g.recordit.co/iKcfS0jDuW.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-2. <img src='http://g.recordit.co/tesefuU40t.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+2. Logging in and viewing tweets with the user profile picture, username, and tweet text
+<img src='http://g.recordit.co/tesefuU40t.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 3. <img src='http://g.recordit.co/Tj7Xql8cpF.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 4. <img src='http://g.recordit.co/UR9uP4FOew.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 5. <img src='http://g.recordit.co/U987dexf5R.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
