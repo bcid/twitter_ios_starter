@@ -35,7 +35,7 @@ Logging out:
 <img src='http://recordit.co/UR9uP4FOew' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Pulling to refresh:
-<img src='http://recordit.co/U987dexf5R' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/U987dexf5R.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Loading past tweets indefinitely:
-<img src='http://recordit.co/zQMNZGuQV3' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/zQMNZGuQV3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
