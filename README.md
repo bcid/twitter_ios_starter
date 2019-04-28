@@ -23,16 +23,16 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 App icon in home screen and styled launch screen:
-<img src='http://recordit.co/iKcfS0jDuW' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/iKcfS0jDuW.gif' title='Video Walkthrough' width='10' alt='Video Walkthrough' />
 
 Logging in and viewing tweets with the user profile picture, username, and tweet text: 
-<img src='http://recordit.co/tesefuU40t' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/tesefuU40t.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Staying logged in across restarts: 
-<img src='http://recordit.co/Tj7Xql8cpF' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/Tj7Xql8cpF.gif' title='Video Walkthrough' width='10' alt='Video Walkthrough' />
 
 Logging out: 
-<img src='http://recordit.co/UR9uP4FOew' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/UR9uP4FOew.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Pulling to refresh:
 <img src='http://g.recordit.co/U987dexf5R.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
