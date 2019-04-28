@@ -29,7 +29,8 @@ Here's a walkthrough of implemented user stories:
 5. Pulling to refresh
 6. Loading past tweets indefinitely
 
-1. <img src='http://g.recordit.co/iKcfS0jDuW.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+1. App icon in home screen and styled launch screen
+<img src='http://g.recordit.co/iKcfS0jDuW.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 2. <img src='http://g.recordit.co/tesefuU40t.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 3. <img src='http://g.recordit.co/Tj7Xql8cpF.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 4. <img src='http://g.recordit.co/UR9uP4FOew.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
