@@ -24,6 +24,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/NRHHa9b6QO.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src='http://g.recordit.co/wzdjfIW17y.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
 # Project 3 - Twitter Starter
 **Twitter Starter** is a basic twitter app to read your tweets.
 
